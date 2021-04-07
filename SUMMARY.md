@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Untitled](untitled.md)
 * [Benefits of FairSafe](risk-of-fair-safe.md)
 * [Risks of FairSafe](risks-of-fairsafe.md)
 * [Roadmap](roadmap.md)
