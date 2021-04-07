@@ -2,7 +2,7 @@
 description: ⚠️ WARNING - you are about to enter mooning territory
 ---
 
-# Risks of Fairsafe
+# Risks of FairSafe
 
 ## Why you should not buy FairSafe
 
