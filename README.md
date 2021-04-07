@@ -24,6 +24,8 @@ I am starting this project because I have seen so many of these "fair" tokens be
 
 This is project is currently being worked on by one developer, designer and the one currently writing this: [@OxZian ](https://twitter.com/0xZian)\(twitter\) / [0xAizen ](https://github.com/0xAizen)\(github\) 
 
+**There is also a risk of this getting botted by outside wallets... So please be cautious on release and do not ape in more than you can afford to lose. We are not liable for any losses and this is not a financial instrument.** 
+
 
 
 ## Tokenomics
@@ -64,13 +66,19 @@ Marketing tokens: 145,000,000,000,000 FSAFE \(Locked for 24 hours and vested\) -
 | Platform fee: | 5,000,000,000,000 FSAFE |
 | Total:  | 455,000,000,000,000 FSAFE |
 
-These numbers are not final, if any changes are to be made an announcement will be posted.
+Burnt tokens: 400,000,000,000,000 FSAFE
 
-Soft-cap: 25 - Hardcap: 125 
+## Dxsale details
 
-Unlocks: 7 APR 2025 at 13:00
+Softcap: 25 
+
+Hardcap: 125 
+
+Liquidity Unlocks: 7 APR **2025** at 13:00 \(4 Years\)
 
 Hard cap is high so tokens can circulate to more holders, lower hardcap = higher chances of getting dumped on. This is the idea anyway, but there will likely be bots on the dxsale presale page. So please proceed with caution
+
+
 
 ## Token use case 
 
