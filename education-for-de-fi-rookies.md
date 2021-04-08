@@ -4,7 +4,7 @@ description: "\U0001F648 But i dont wanna learn..."
 
 # Education for de-fi rookies
 
-## Education time \#1:
+## Theory Time \#1:
 
 Method of how all recent fairs were rugged...
 
