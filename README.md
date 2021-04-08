@@ -24,7 +24,9 @@ I am starting this project because I have seen so many of these "fair" tokens be
 
 This is project is currently being worked on by one developer, designer and the one currently writing this: [@OxZian ](https://twitter.com/0xZian)\(twitter\) / [0xAizen ](https://github.com/0xAizen)\(github\) 
 
-**There is also a risk of this getting outbid with gas... So please be cautious on release and do not ape in more than you can afford to lose. We are not liable for any losses and this is not a financial instrument.** 
+**There is also a risk of this getting outbid with gas... So please be cautious on release and do not ape in more than you can afford to lose. We are not liable for any losses and this is not a financial instrument.**
+
+**Dxsale is not bottable due to presale contracts being unverified thus no way for bots to call contract .** 
 
 
 
