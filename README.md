@@ -36,7 +36,7 @@ You know what this is, reflect, frictionless yield... If you don't then you migh
 
 There will be 1,000,000,000,000,000 FairSafe Token in existence
 
-FairSafe employs 3 simple functions: Reflection + LP acquisition + Burn In each trade, the transaction is taxed a 10% fee, which is split 2 ways. 
+FairSafe employs 3 simple functions: Reflection + LP acquisition + Burn In each trade, the transaction is taxed a 8% fee, which is split 2 ways. 
 
 * 3% fee = redistributed to all existing holders
 * 5% fee is split 50/50 half of which is sold by the contract into BNB, while the other half of the FairSafe tokens are paired automatically with the previously mentioned BNB and added as a liquidity pair on Pancake Swap.
