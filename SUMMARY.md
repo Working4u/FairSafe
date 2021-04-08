@@ -6,4 +6,5 @@
 * [Roadmap](roadmap.md)
 * [Wen moon?](where-and-how-do-i-join-fair-safe.md)
 * [Guides](guides.md)
+* [Education for de-fi rookies](education-for-de-fi-rookies.md)
 
