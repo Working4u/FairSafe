@@ -42,7 +42,7 @@ Once the team figures out a solution for the [DAO ](https://cointelegraph.com/et
 
 ![As of 9th of April 2021 community fund is now locked till 9th of April 2023](.gitbook/assets/image%20%283%29.png)
 
-We will update TG / INSTA / TWITTER / DISCORD on any plans for the vested tokens currently these are the estimated vesting periods. 
+We will update [TG ](https://t.me/fairsafe)/ [INSTA ](https://www.instagram.com/FairSafeBSC/)/ [TWITTER](https://twitter.com/FairSafeBSC) / [DISCORD](https://discord.gg/dC32qxZfKs) on any plans for the vested tokens currently these are the estimated vesting periods. 
 
 
 
