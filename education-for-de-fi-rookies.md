@@ -20,5 +20,5 @@ As we head into De-Fi 2.0 scammers also develop a way to steal your hard earnt S
 
 ## Theory Time \#1: FAIL
 
-This theory has been debunked. As dxsale contracts are unverified, meaning no functions can be written to the contract. 
+This theory has been debunked. As dxsale contracts are unverified, meaning no functions can be written to the contract. One theory suggests that this is done via scripting and using high gas.
 
