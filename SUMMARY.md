@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Token lock](token-lock.md)
 * [Benefits of FairSafe](risk-of-fair-safe.md)
 * [Risks of FairSafe](risks-of-fairsafe.md)
 * [Roadmap](roadmap.md)
