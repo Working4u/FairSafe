@@ -22,7 +22,7 @@ This is the start for us as a community to put an end to [rugpulls](https://coin
 
 I then adjusted the numbers in preparation for the launch for 2T BNB per FSAFE and 125 Hardcap. To reach a total of [455T FSAFE](https://bscscan.com/tx/0x7a58e2fc9f4a27ce2de038280b1cef5c7a824a017bee7ce467d615c3ff8f4ec3) in the [LP](https://finematics.com/liquidity-pools-explained/) \(Liquidity Pool\). Then followed it with a [400T FSAFE Burn](https://bscscan.com/tx/0x8df62134d9cf50c53f119e47f9d410ffadab3b7e24f9ba77b04c357b5da00454). 
 
-This leaves with 145T tokens left.
+This leaves us with 145T tokens left.
 
 _But ser is token safe?_ 
 
