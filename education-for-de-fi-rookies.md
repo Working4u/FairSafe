@@ -18,3 +18,5 @@ Method of how all recent fairs were rugged...
 
 As we head into De-Fi 2.0 scammers also develop a way to steal your hard earnt SATS. RUGGED 2.0
 
+This theory has been debunked. As dxsale contracts are unverified, meaning no functions can be written to the contract. 
+
