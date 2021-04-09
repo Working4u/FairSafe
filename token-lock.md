@@ -8,7 +8,7 @@ description: "\U0001F512 Are funds safu??"
 
 ![](.gitbook/assets/image.png)
 
-As you all know 14.5% is locked up in a the Dxtoken contract. When the timer reaches 0% I will lock these tokens again. Initially I didn't think this project will attract so many like minded people, since I didn't think we would be able to reach the 125 BNB HARDCAP I left a lot of tokens for marketing so we could gain momentum. 
+As you all know 14.5% is locked up in a the [Dxtoken](https://dxsale.app/app/pages/dxlockview?id=0&add=0xCdF5817D058F05A14F56ebCA293dD6ce6dfF7D1e&type=tokenlock&chain=BSC) contract. When the timer reaches 0% I will lock these tokens again. Initially I didn't think this project will attract so many like minded people, since I didn't think we would be able to reach the 125 BNB HARDCAP I left a lot of tokens for marketing so we could gain momentum. 
 
 But things have changed. In just 24 hours, we have managed to gather 2,697 holders. With the market cap rising holding this many tokens for marketing just does not seem reasonable. 
 
