@@ -34,6 +34,8 @@ I have come to a conclusion that the best solution is to lock it up in the dxtok
 
 But this time for a span of 2 years vested 100 times over the course of the two years. Each time an allocation is vested hodlers will be notified, the use of these tokens will be up for the community to decide. We are in early stages so at the moment there is no DAO protocol in the current contract and it has been [renounced](https://bscscan.com/tx/0x1fbd55a3aca653f784f49cf300cd3f06d993a9b23c6b7ccbc9e4169e49745fb5). 
 
+\( Hodlers? Don't you mean holders? New to crypto I see.. Learn about the origins of [hodlers](https://www.investopedia.com/terms/h/hodl.asp#:~:text=The%20term%20HODL%20%28or%20hodl,the%20beginning%20of%20December%202013.). 
+
 For now we will have to go with the old polling system on what to do with vested funds this means you need to be active within the community. Hodlers who are not invested in the project are hodlers who are not serious. 
 
 Once the team figures out a solution for the [DAO ](https://cointelegraph.com/ethereum-for-beginners/what-is-dao)governance you will hopefully be able to delegate your FSAFE to vote on what is to be done! 
