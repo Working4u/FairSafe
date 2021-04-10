@@ -8,25 +8,25 @@ description: "\U0001F512 Who's the fairest of them all?"
 
 ## FairSafe's purpose
 
-This isn't the typical "moonshot" project, that is a very small part of it. The true purpose of this token is to bring light to layer 2 solutions into the BSC community. Like they say  **Hook, line, and sinker.** 
+This isn't your typical "moonshot" project - that's only a very small part of it. The true purpose of this token is to bring light to layer 2 solutions within the BSC community. Like they say, hook, line, and sinker. 
 
-The current "fair" and "safe" prefix are a trend in the BSC community and a lot of people are getting hurt by these fake projects. This is what has inspired me to work on this project, while also giving people a platform to get educated on layer 2 and why it is important for de-fi. 
+Both the "fair" and "safe" prefixes are currently part of a big, sometimes dangerous trend within the BSC community. An unacceptably high number of people have gotten financially hurt by fake projects using such prefixes to promote themselves. This is what, above all, has inspired me to start working on this project, giving people a platform to get educated on layer 2 and its importance for de-fi at the same time.
 
-ETH is growing rapidly and it's not going to stop any time soon. ETH 2.0 is years away and mass attraction to crypto is now. The only second best solution people think is BSC but it isn't. Binance has way too much control for it to be called a decentralised exchange, they can shut off nodes and bridges if it fits their agenda.
+ETH is growing rapidly and it's not going to go away anytime soon. ETH 2.0 is years away, while mainstream attraction to crypto is here now. The only available, second-best solution people can think of is BSC - but it isn't. Binance holds way too much control for it to be called a decentralised exchange. Indeed, they have the ability to shut off nodes and bridges, should that fit their agenda.
 
-This project will start out on BSC for the main reason that there is massive traffic and a lot of new people are exposed to it because of Safemoon. The main goal is to migrate to Polygon, where FairSafe will find it's true home. 
+This project will first start out on BSC, for the important reason that, in the wake of the Safemoon protocol, it is currently seeing massive traffic and that, as a consequence of this, a lot of new people will be exposed to it. The ultimate goal is to migrate to Polygon, where FairSafe will find its true, forever home. 
 
 ## WTFORK??? 
 
-I won't beat around the bush unlike other "community" tokens, this is a fork of SafeMoon, which was a fork of bee, which was a fork of blah blah blah. Nothing ground breaking here. 
+I won't beat around the bush like other "community" tokens: this is a fork of Safemoon, which was a fork of bee, which was a fork of blah blah blah. Nothing ground-breaking here, technology-wise. 
 
-I am starting this project because I have seen so many of these "fair" tokens be absolutely unfair and seeing people get scammed on dxsale I thought to myself that I could make a token and actually make it... you know... FAIR. 
+I have decided to start this project because after seeing so many of these supposedly "fair" tokens turn out to be absolutely unfair, resulting in people getting cheated and scammed on Dxsale. So, I thought to myself that I could make a token and actually make it to be... you know... FAIR. 
 
-This is project is currently being worked on by one developer, designer and the one currently writing this: [@OxZian ](https://twitter.com/0xZian)\(twitter\) / [0xAizen ](https://github.com/0xAizen)\(github\) 
+This project is currently being worked on by one developer, designer and person behind this writing altogether:  [@OxZian ](https://twitter.com/0xZian)\(twitter\) / [0xAizen ](https://github.com/0xAizen)\(github\) 
 
 **There is also a risk of this getting outbid with gas... So please be cautious on release and do not ape in more than you can afford to lose. We are not liable for any losses and this is not a financial instrument.**
 
-**Dxsale is not bottable due to presale contracts being unverified thus no way for bots to call contract .** 
+**Dxsale is not bottable due to presale contracts being unverified. But it has been said it can be scripted and outbid with gas. No confirmation of these rumours as of yet.** 
 
 
 
@@ -34,22 +34,23 @@ This is project is currently being worked on by one developer, designer and the 
 
 
 
-You know what this is, reflect, frictionless yield... If you don't then you might just wanna click on [this](https://yosh-dev.medium.com/what-is-safemoon-b4c21b81b217#:~:text=Safemoon%20is%20a%20relatively%20new,in%20early%20March%20of%202021.&text=Safemoon%20is%20a%20deflationary%20crypto,value%20as%20time%20goes%20on.).
+You know what this is: a reflect, frictionless yield... If you didn't, then you may wanna check it out [at](https://yosh-dev.medium.com/what-is-safemoon-b4c21b81b217#:~:text=Safemoon%20is%20a%20relatively%20new,in%20early%20March%20of%202021.&text=Safemoon%20is%20a%20deflationary%20crypto,value%20as%20time%20goes%20on.).
 
-There will be 1,000,000,000,000,000 FairSafe Token in existence
+There will be 1,000,000,000,000,000 FairSafe Token in existence.
 
-FairSafe employs 3 simple functions: Reflection + LP acquisition + Burn In each trade, the transaction is taxed a 8% fee, which is split 2 ways. 
+FairSafe employs 3 simple functions: Reflection + LP acquisition + Burn In each trade, and the transaction is taxed at an 8% fee, which is split 2 ways:
 
-* 3% fee = redistributed to all existing holders
-* 5% fee is split 50/50 half of which is sold by the contract into BNB, while the other half of the FairSafe tokens are paired automatically with the previously mentioned BNB and added as a liquidity pair on Pancake Swap.
+•	3% fee = redistributed to all existing holders.
 
-\(yes i copypasta safemoon description 😂 because this is literally what the token is right now\)
+•	5% fee is split 50/50, half of which is sold by the contract into BNB, while the other half of the FairSafe tokens are paired automatically with the previously mentioned BNB and added as a liquidity pair on Pancake Swap.
 
-To maximize the fairness for each investor there will only have a maximum allocation of 2 BNB per TX. 
+\(yes, I copy and pasted the Safemoon description 😂, because this is literally what this token is at its current state\).
+
+To maximize the fairness for each investor there will only be a maximum allocation of 2 BNB per TX. 
 
 The presale and listing price will be the same: 2,000,000,000,000 FSAFE = 1 BNB.
 
-Token will be renounced once presale is finalised. This means that the current protocol will NOT be deflationary as I will not have the ability to create a synthetic burn for the token.
+Token will be renounced once the presale is finalised. This means that the current protocol will not be able to burn tokens whenever we please. 
 
 ## Token distribution
 
