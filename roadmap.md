@@ -11,8 +11,12 @@ So we're already in Q2 We will start from there.
 * [x] Launch [smart contract](https://bscscan.com/address/0xee738a9e5fb78c24d26cecd30389ed977c38d0ca) into the main net.
 * [x] Launch website for Fair Safe.
 * [x] Launch pre-sale on dxsale
-* [ ] Audit: NightWatch Operations - 0.5 ETH / Solid\_1 - $1800
-* [ ] Marketing to spread awareness of the project. \(YouTube/TikTok/Twitter\)
+* [x] Audit: [Solid\_1](https://twitter.com/solid_group_1/status/1380977107036217348?s=20)
+* [x] Marketing to spread awareness of the project. \(YouTube/TikTok/Twitter\)
+* [CryptoPablo](https://discord.com/channels/828982912203489301/830865557888827442/830888621078609951) - Youtube Review
+* [Alexandrus ](https://youtu.be/vIZB6bIB1v4)- Youtube Review 
+* [CryptoAdvance ](https://youtu.be/DejRpFBWePA)- Youtube Review
+* [Blaneoh ](https://www.tiktok.com/@blaneoh?lang=en)- TikTok
 * [ ] NFT Market Place. \(Dapp will be worked on once presale is over\)
 
 ## End of Q3 - 2021
