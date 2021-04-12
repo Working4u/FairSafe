@@ -14,7 +14,7 @@ Both the "fair" and "safe" prefixes are currently part of a big, sometimes dange
 
 ETH is growing rapidly and it's not going to go away anytime soon. ETH 2.0 is years away, while mainstream attraction to crypto is here now. The only available, second-best solution people can think of is BSC - but it isn't. Binance holds way too much control for it to be called a decentralised exchange. Indeed, they have the ability to shut off nodes and bridges, should that fit their agenda.
 
-This project will first start out on BSC, for the important reason that, in the wake of the Safemoon protocol, it is currently seeing massive traffic and that, as a consequence of this, a lot of new people will be exposed to it. The ultimate goal is to migrate to Polygon, where FairSafe will find its true, forever home. 
+This project will first start out on BSC, for the important reason that, in the wake of the Safemoon protocol, Binance Smart Chain is currently seeing massive traffic and that, as a consequence of this, a lot of new people will are exposed to scams/pump and dumps. The ultimate goal is to migrate to Polygon, where FairSafe will find its true, forever home. 
 
 ## WTFORK??? 
 
