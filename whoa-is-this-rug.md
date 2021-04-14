@@ -2,7 +2,7 @@
 description: "\U0001F937‍♂️ fren what is happening here?"
 ---
 
-# WHOA IS THIS RUG???
+# Autoliquidty function
 
 ![What are these transactions dev?](.gitbook/assets/image%20%282%29.png)
 

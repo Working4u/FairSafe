@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [WHOA IS THIS RUG???](whoa-is-this-rug.md)
+* [Autoliquidty function](whoa-is-this-rug.md)
 * [Token lock](token-lock.md)
 * [Benefits of FairSafe](risk-of-fair-safe.md)
 * [Risks of FairSafe](risks-of-fairsafe.md)
