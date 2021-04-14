@@ -36,15 +36,14 @@ This project is currently being worked on by one developer, designer and person 
 
 You know what this is: a reflect, frictionless yield... If you didn't, then you may wanna check it out [at](https://yosh-dev.medium.com/what-is-safemoon-b4c21b81b217#:~:text=Safemoon%20is%20a%20relatively%20new,in%20early%20March%20of%202021.&text=Safemoon%20is%20a%20deflationary%20crypto,value%20as%20time%20goes%20on.).
 
-There will be 1,000,000,000,000,000 FairSafe Token in existence.
+There will be 1,000,000,000,000,000 FSAFE Token in existence.
 
-FairSafe employs 3 simple functions: Reflection + LP acquisition + Burn In each trade, and the transaction is taxed at an 8% fee, which is split 2 ways:
+FairSafe has 3 simple functions: Reflection + Liquidity Pool acquisition + Burn with each trade, and the transaction is taxed with a rate of 8%. This is split into 2 sections:
 
-•	3% fee = redistributed to all existing holders.
+* 3% fee that is redistributed to all existing holders. This includes the burn wallet.
+* 5% fee that is split into 2. One half being sold by the contract and the other half of the FSAFE tokens are automatically paired with the BNB. This creates a Liquidity Pool token that is then added to Pancakeswap. 
 
-•	5% fee is split 50/50, half of which is sold by the contract into BNB, while the other half of the FairSafe tokens are paired automatically with the previously mentioned BNB and added as a liquidity pair on Pancake Swap.
 
-\(yes, I copy and pasted the Safemoon description 😂, because this is literally what this token is at its current state\).
 
 To maximize the fairness for each investor there will only be a maximum allocation of 2 BNB per TX. 
 
@@ -89,7 +88,7 @@ At the current development cycle there is no use case for the token, just like m
 
 * Governance implementation
 * NFT Market Place: Market place for artist that is fair and safe + future NFT released by FairSafe. 
-* NFT Clothing - Creating merch that will be available for purchase, users can chose to mint nft or get it delivered to them. If user mints clothing into nft it will be sent to their address via ERC721 token and physical merch will be burnt video of clothing burn will be uploaded as a ERC721 token for proof. 
+* NFT Clothing - Creating merch that will be available for purchase, users can chose to mint NFT or get it delivered to them. If user mints clothing into NFT it will be sent to their address via ERC721 token and physical merch will be burnt video of clothing burn will be uploaded as a ERC721 token for proof. 
 
 
 
