@@ -32,5 +32,5 @@ This current iteration of launchpad mechanics only provides utility for those wh
 | 2 | 1 BNB worth of Launchpad Tokens  | 5.1% | 102  |
 | 3 |  2 BNB worth of Laucnhpad tokens | 0.6% | 12 |
 
-
+These are just two examples of what is going to be implemented onto the FSAFE Launchpad System
 
