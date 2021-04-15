@@ -19,6 +19,11 @@
 * [The blackhole \(41% of supply\)](fsafe-mechanics/burn-address-0x000...dead.md)
 * [Token lock \(15% of supply\)](fsafe-mechanics/token-lock.md)
 
+## NFT Marketplace
+
+* [NFT with utility](nft-marketplace/nft-with-utility.md)
+* [NFT Launchpad Ticket](nft-marketplace/nft-launchpad-ticket.md)
+
 ## Education
 
 * [Guides](education/guides.md)
