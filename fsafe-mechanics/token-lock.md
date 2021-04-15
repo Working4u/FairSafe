@@ -2,7 +2,7 @@
 description: "\U0001F512 Are funds safu??"
 ---
 
-# Token lock
+# Token lock \(15% of supply\)
 
 ## Arc 1: Inception
 
