@@ -10,7 +10,21 @@ FairSafe's first release of NFT will be on 18th of April. These NFT's will be us
 
 ## Current issues:
 
-This is . As this will eliminate the current problem with today's launchpad mechanics. That being allocation amount and continuous rise in price for launchpad tokens. 
+This is the first time I have seen of this proposition for launchpads, the current way launchpads/ IDO's work is through the launchpad token and investors who got lucky or had insider information that purchased massive amount of said launchpad tokens now have bigger allocations than everyone else. 
+
+## Solutions:
+
+Some try to solve this by changing the minimum and maximum numbers for the allocation as the tokens based on token price. It's not the worst approach but it still leaves the users needing to be invested in one asset to gain another asset.
+
+With NFT Tickets you own this asset and you can sell it for more or less depending on how valuable the market thinks the launchpad will be. People love collecting things and who wouldn't want a -
+
+Rarity: 3 \| 1/12 \| Caritas Launchpad Ticket 
+
+{% hint style="info" %}
+Caritas is a token that will be part of the FSAFE ecosystem.
+{% endhint %}
+
+As this will eliminate the current problem with today's launchpad mechanics. That being allocation amount and continuous rise in price for launchpad tokens. 
 
 This current iteration of launchpad mechanics only provides utility for those who got in early or those who have a big enough wallet. 
 
