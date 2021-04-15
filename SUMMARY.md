@@ -9,7 +9,7 @@
 
 ## FSAFE Mechanics
 
-* [Burn address \(0x000...dEaD\)](fsafe-mechanics/burn-address-0x000...dead.md)
+* [The blackhole](fsafe-mechanics/burn-address-0x000...dead.md)
 * [Autoliquidty function](fsafe-mechanics/whoa-is-this-rug.md)
 * [Token lock](fsafe-mechanics/token-lock.md)
 
