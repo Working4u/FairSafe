@@ -1,5 +1,5 @@
 ---
-description: "\U0001F48C Welcome, you are finally in a project that's a first-mover"
+description: "\U0001F3AB Wait, you can do this?"
 ---
 
 # FSAFE NFT Launchpad System
