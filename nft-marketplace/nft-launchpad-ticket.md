@@ -10,7 +10,7 @@ FairSafe's first release of NFT will be on 18th of April. These NFT's will be us
 
 ## Current issues:
 
-This is a far more sustainable approach for the FairSafe Launchpad. As this will eliminate the current problem with today's launchpad mechanics. That being allocation amount and continuous rise in price for launchpad tokens. 
+This is . As this will eliminate the current problem with today's launchpad mechanics. That being allocation amount and continuous rise in price for launchpad tokens. 
 
 This current iteration of launchpad mechanics only provides utility for those who got in early or those who have a big enough wallet. 
 
@@ -32,5 +32,7 @@ This current iteration of launchpad mechanics only provides utility for those wh
 | 2 | 1 BNB worth of Launchpad Tokens  | 5.1% | 102  |
 | 3 |  2 BNB worth of Laucnhpad tokens | 0.6% | 12 |
 
-These are just two examples of what is going to be implemented onto the FSAFE Launchpad System
+These are just two examples of what is going to be implemented onto the FSAFE Launchpad System.
+
+
 

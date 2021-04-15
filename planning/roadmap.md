@@ -17,10 +17,11 @@ So we're already in Q2 We will start from there.
 * [Alexandrus ](https://youtu.be/vIZB6bIB1v4)- Youtube Review 
 * [CryptoAdvance ](https://youtu.be/DejRpFBWePA)- Youtube Review
 * [Blaneoh ](https://www.tiktok.com/@blaneoh?lang=en)- TikTok
+* [ ] NFT Marketplace 
+* [ ] NFT Tickets for launchpad
 * [ ] NFT clothing will be put on auction, 3 pieces that will only be minted once, winners have the option to get the clothing shipped to them or minted as an NFT. 
 * if minted, clothing will be destroyed with evidence and made into ERC721
 * If shipped, winner will still have the option to mint but they will have to send clothing back to us, destroy then upload as ERC721
-* [ ] NFT Marketplace 
 
 ## End of Q3 - 2021
 
