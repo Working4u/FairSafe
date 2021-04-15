@@ -1,14 +1,16 @@
 ---
-description: "\U0001F48C Balance in all things."
+description: "\U0001F48C Welcome, you are finally in a project that's a first-mover"
 ---
 
 # FSAFE NFT Launchpad System
 
-## First release: 
+## First mover: This your first time?
 
-FairSafe's first release of NFT will be on 18th of April. These NFT's will be used as tickets for future token release on FairSafe's Launch Pads. Depending on the rarity you acquire there will be different levels of allocation and amount of usage for the NFT you purchased. 
+Welcome, you are finally investing in a project that's a first-mover. So far my research has not lead me to believe that this use case for NFT's has been done yet. 
 
-## Current issues:
+FairSafe's first release of NFT will be on 18th of April. These NFT's will be used as tickets for future project release on FairSafe's Launchpads. Depending on the rarity you acquire there will be different levels of allocation.
+
+## Current issues: Venture Capitalist eat you up
 
 This is the first time I have seen of this proposition for launchpads, the current way launchpads/ IDO's work is through the launchpad token and investors who got lucky or had insider information that purchased massive amount of said launchpad tokens now have bigger allocations than everyone else. 
 
