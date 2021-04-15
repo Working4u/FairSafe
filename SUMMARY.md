@@ -11,6 +11,7 @@
 
 * [Presale details](fsafe-mechanics/presale-details.md)
 * [Tokenomics](fsafe-mechanics/tokenomics.md)
+* [Token use case](fsafe-mechanics/token-use-case.md)
 * [Autoliquidty function](fsafe-mechanics/whoa-is-this-rug.md)
 * [The blackhole \(41% of supply\)](fsafe-mechanics/burn-address-0x000...dead.md)
 * [Token lock \(15% of supply\)](fsafe-mechanics/token-lock.md)
