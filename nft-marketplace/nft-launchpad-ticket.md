@@ -8,15 +8,29 @@ description: "\U0001F48C Balance in all things."
 
 FairSafe's first release of NFT will be on 18th of April. These NFT's will be used as tickets for future token release on FairSafe's Launch Pads. Depending on the rarity you acquire there will be different levels of allocation and amount of usage for the NFT you purchased. 
 
-
-
 ## Current issues:
 
 This is a far more sustainable approach for the FairSafe Launchpad. As this will eliminate the current problem with today's launchpad mechanics. That being allocation amount and continuous rise in price for launchpad tokens. 
 
 This current iteration of launchpad mechanics only provides utility for those who got in early or those who have a big enough wallet. 
 
-## Allocation for FSAFE Launchpads
+##  Iteration 1: FSAFE NFT Launchpads Tickets
+
+| Rarity | Allocation | Price of NFT Ticket \(BNB\) | Number of tokens |
+| :--- | :--- | :--- | :--- |
+| 1 | 0.5 BNB worth of Launchpad Tokens | 0.5 BNB | 1000 |
+| 2 | 1 BNB worth of Launchpad Tokens | 1 BNB | 200 |
+| 3 | 2 BNB worth of Launchpad Tokens | 2 BNB | 100 |
+
+##  Iteration 2: FSAFE NFT Launchpads Tickets
+
+2000 tickets in existence 
+
+| Rarity | Allocation | Rate | Amount of NFT Tickets in existence |
+| :--- | :--- | :--- | :--- |
+| 1 | 0.5 BNB worth of Launchpad Tokens |  94.3% | 1886 |
+| 2 | 1 BNB worth of Launchpad Tokens  | 5.1% | 102  |
+| 3 |  2 BNB worth of Laucnhpad tokens | 0.6% | 12 |
 
 
 
