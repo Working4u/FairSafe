@@ -30,26 +30,7 @@ This project is currently being worked on by one developer, designer and person 
 
 
 
-## Tokenomics
 
-
-
-You know what this is: a reflect, frictionless yield... If you didn't, then you may wanna check it out [at](https://yosh-dev.medium.com/what-is-safemoon-b4c21b81b217#:~:text=Safemoon%20is%20a%20relatively%20new,in%20early%20March%20of%202021.&text=Safemoon%20is%20a%20deflationary%20crypto,value%20as%20time%20goes%20on.).
-
-There will be 1,000,000,000,000,000 FSAFE Token in existence.
-
-FairSafe has 3 simple functions: Reflection + Liquidity Pool acquisition + Burn with each trade, and the transaction is taxed with a rate of 8%. This is split into 2 sections:
-
-* 3% fee that is redistributed to all existing holders. This includes the burn wallet.
-* 5% fee that is split into 2. One half being sold by the contract and the other half of the FSAFE tokens are automatically paired with the BNB. This creates a Liquidity Pool token that is then added to Pancakeswap. 
-
-
-
-To maximize the fairness for each investor there will only be a maximum allocation of 2 BNB per TX. 
-
-The presale and listing price will be the same: 2,000,000,000,000 FSAFE = 1 BNB.
-
-Token will be renounced once the presale is finalised. This means that the current protocol will not be able to burn tokens whenever we please. 
 
 ## Token distribution
 
