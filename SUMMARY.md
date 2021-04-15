@@ -9,7 +9,6 @@
 
 ## How FSAFE works <a id="fsafe-mechanics"></a>
 
-* [Presale details](fsafe-mechanics/presale-details.md)
 * [Tokenomics](fsafe-mechanics/tokenomics.md)
 * [Token use case](fsafe-mechanics/token-use-case.md)
 * [Autoliquidty function](fsafe-mechanics/whoa-is-this-rug.md)
@@ -23,4 +22,5 @@
 ## Education
 
 * [Guides](education/guides.md)
+* [Presale details](education/presale-details.md)
 
