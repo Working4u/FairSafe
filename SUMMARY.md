@@ -22,7 +22,7 @@
 ## NFT Marketplace
 
 * [NFT with utility](nft-marketplace/nft-with-utility.md)
-* [NFT Launchpad Ticket](nft-marketplace/nft-launchpad-ticket.md)
+* [FSAFE NFT Launchpad System](nft-marketplace/nft-launchpad-ticket.md)
 
 ## Education
 

@@ -2,7 +2,7 @@
 description: "\U0001F48C Balance in all things."
 ---
 
-# NFT Launchpad Ticket
+# FSAFE NFT Launchpad System
 
 ## First release: 
 
@@ -46,7 +46,9 @@ This current iteration of launchpad mechanics only provides utility for those wh
 | 2 | 1 BNB worth of Launchpad Tokens  | 5.1% | 102  |
 | 3 |  2 BNB worth of Laucnhpad tokens | 0.6% | 12 |
 
-These are just two examples of what is going to be implemented onto the FSAFE Launchpad System.
+These are just two examples of what is going to be implemented onto the FSAFE NFT Launchpad System.
 
-
+{% hint style="info" %}
+More information will come out about the mechanisms of the FSAFE NFT Launchpad System in the future
+{% endhint %}
 
