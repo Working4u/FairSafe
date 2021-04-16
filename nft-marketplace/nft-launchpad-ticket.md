@@ -32,7 +32,7 @@ This current iteration of launchpad mechanics only provides utility for those wh
 
 ##  Iteration 1: FSAFE NFT Launchpads Tickets
 
-| Rarity | Allocation | Price of NFT Ticket \(BNB\) | Number of NFT Tieckts |
+| Rarity | Allocation | Price of NFT Ticket \(BNB\) | Number of NFT Tickets |
 | :--- | :--- | :--- | :--- |
 | 1 | 0.5 BNB worth of Launchpad Tokens | 0.5 BNB | 1000 |
 | 2 | 1 BNB worth of Launchpad Tokens | 1 BNB | 200 |
