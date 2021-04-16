@@ -14,7 +14,7 @@ FairSafe's first release of NFT will be on 18th of April. These NFT's will be us
 
 This is the first time I have seen of this proposition for launchpads, the current way launchpads/ IDO's work is through the launchpad token and investors who got lucky or had insider information that purchased massive amount of said launchpad tokens now have bigger allocations than everyone else. 
 
-## Solutions:
+## Solutions: Launchpads Gamified
 
 Some try to solve this by changing the minimum and maximum numbers for the allocation as the tokens based on token price. It's not the worst approach but it still leaves the users needing to be invested in one asset to gain another asset.
 
