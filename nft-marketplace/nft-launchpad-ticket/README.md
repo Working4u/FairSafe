@@ -10,6 +10,8 @@ Welcome, you are finally investing in a project that's a first-mover. So far my 
 
 FairSafe's first release of NFT will be on 18th of April. These NFT's will be used as tickets for future project release on FairSafe's Launchpads. Depending on the rarity you acquire there will be different levels of allocation.
 
+This is a similar concept to concert tickets. You have to buy the tickets first before you go to the show and there are different tiers for the tickets. 
+
 ## Current issues: Venture Capitalist eat you up
 
 This is the first time I have seen of this proposition for launchpads, the current way launchpads/ IDO's work is through the launchpad token and investors who got lucky or had insider information that purchased massive amount of said launchpad tokens now have bigger allocations than everyone else. 
