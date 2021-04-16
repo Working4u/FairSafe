@@ -6,7 +6,7 @@ description: "\U0001F3AB Wait, you can do this?"
 
 ## First mover: This your first time?
 
-Welcome, you are finally investing in a project that's a first-mover. So far my research has not lead me to believe that this use case for NFT's has been done yet. 
+Welcome, you are finally investing in a project that's a first-mover. So far my research has lead me to believe that this use case for NFT's has not been done yet. 
 
 FairSafe's first release of NFT will be on 18th of April. These NFT's will be used as tickets for future project release on FairSafe's Launchpads. Depending on the rarity you acquire there will be different levels of allocation.
 
@@ -46,7 +46,7 @@ This current iteration of launchpad mechanics only provides utility for those wh
 | :--- | :--- | :--- | :--- |
 | 1 | 0.5 BNB worth of Launchpad Tokens |  94.3% | 1886 |
 | 2 | 1 BNB worth of Launchpad Tokens  | 5.1% | 102  |
-| 3 |  2 BNB worth of Laucnhpad tokens | 0.6% | 12 |
+| 3 |  2 BNB worth of Launchpad tokens | 0.6% | 12 |
 
 These are just two examples of what is going to be implemented onto the FSAFE NFT Launchpad System.
 
