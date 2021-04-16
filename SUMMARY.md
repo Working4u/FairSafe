@@ -23,10 +23,14 @@
 
 * [NFT with utility](nft-marketplace/nft-with-utility.md)
 * [FSAFE NFT Launchpad System](nft-marketplace/nft-launchpad-ticket/README.md)
-  * [Acquisition](nft-marketplace/nft-launchpad-ticket/acquisition.md)
+  * [How to get these ticket?](nft-marketplace/nft-launchpad-ticket/acquisition.md)
 
 ## Education
 
 * [Guides](education/guides.md)
 * [Presale details](education/presale-details.md)
+
+## Bounty Program
+
+* [Bounty Pool](bounty-program/bounty-pool.md)
 
