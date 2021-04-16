@@ -22,7 +22,8 @@
 ## NFT Marketplace
 
 * [NFT with utility](nft-marketplace/nft-with-utility.md)
-* [FSAFE NFT Launchpad System](nft-marketplace/nft-launchpad-ticket.md)
+* [FSAFE NFT Launchpad System](nft-marketplace/nft-launchpad-ticket/README.md)
+  * [Acquisition](nft-marketplace/nft-launchpad-ticket/acquisition.md)
 
 ## Education
 
