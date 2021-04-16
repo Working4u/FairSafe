@@ -32,5 +32,6 @@
 
 ## Bounty Program
 
-* [Bounty Pool](bounty-program/bounty-pool.md)
+* [Bounty Pool](bounty-program/bounty-pool/README.md)
+  * [Mission \#1](bounty-program/bounty-pool/mission-1.md)
 
