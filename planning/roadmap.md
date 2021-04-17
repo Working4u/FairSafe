@@ -13,7 +13,7 @@ So we're already in Q2 We will start from there.
 * [x] Launch pre-sale on dxsale
 * [x] Audit: [Solid\_1](https://twitter.com/solid_group_1/status/1380977107036217348?s=20)
 * [x] Marketing to spread awareness of the project. \(YouTube/TikTok/Twitter\)
-* [CryptoPablo](https://discord.com/channels/828982912203489301/830865557888827442/830888621078609951) - Youtube Review
+* [CryptoPablo](https://youtu.be/2Ejs7AqvPAs) - Youtube Review
 * [Alexandrus ](https://youtu.be/vIZB6bIB1v4)- Youtube Review 
 * [CryptoAdvance ](https://youtu.be/DejRpFBWePA)- Youtube Review
 * [Blaneoh ](https://www.tiktok.com/@blaneoh?lang=en)- TikTok
