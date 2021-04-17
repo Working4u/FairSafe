@@ -4,6 +4,7 @@
 
 ## Planning
 
+* [Listings](planning/listings.md)
 * [Roadmap](planning/roadmap.md)
 * [Marketing](planning/marketing.md)
 
