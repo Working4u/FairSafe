@@ -5,6 +5,7 @@
 ## Planning
 
 * [Roadmap](planning/roadmap.md)
+* [Marketing](planning/marketing.md)
 
 ## Read before continuing
 
