@@ -12,5 +12,19 @@ Now you will be able to say you truly have a ticket to da moon.
 
 Visit our current NFT Marketplace [here](https://unifty.io/bsc/farm-view.html?address=0xB87F4eFfA93Ba28E48496c7a48cC376E63b870A6).
 
+## How to get these NFT's? 
+
+You can either stake your FSAFE or buy the NFT's out with BNB. 
+
+## Staking
+
+Please be warned that if you stake your FSAFE it will be transferred into a new smart contract that. This means that you have to pay the 8% tax for the transfer. Each time FSAFE is transferred the tax is still applied.
+
+EG: 10 FSAFE &gt; Stake &gt; 9.2 FSAFE &gt; Un-stake &gt; 8.464 FSAFE 
+
+Also please note that you will be farming POINTS to gather these NFT's not FSAFE. 
+
+Currently the rate is 100 Points Per Second
+
 
 

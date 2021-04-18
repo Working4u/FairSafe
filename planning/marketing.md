@@ -1,5 +1,5 @@
 ---
-description: "\U0001F574 Things don"
+description: "\U0001F574 Things don't get done by themselves"
 ---
 
 # Marketing
@@ -18,5 +18,7 @@ We know that marketing is as important as the development of the project. Withou
 * Poocoin - 3 Days
 * [Bogged Tools ](https://i.gyazo.com/bd6633061afa5c204619dc82e8c38611.png)- 7 days 
 
-We've done quite a handful so far in only the first week. Going forward now with the marketing funds unlocked we will need to strategize to use these funds so they are not wasted on the wrong audience. Updates on this in the coming weeks.
+We've done quite a handful so far in only the first week. Going forward now with the marketing funds unlocked we will need to strategize to use these funds so they are not wasted on the wrong audience. 
+
+Updates on this in the coming weeks.
 
