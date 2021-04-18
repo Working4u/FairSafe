@@ -11,5 +11,8 @@ description: ⚠️ WARNING - you are about to enter mooning territory
 * Investing all of your portfolio into Fair Safe.
 * You are not interested in helping form a welcoming community.
 * Not willing to check up on the project for progress.
-* FairSafe is not a speculation asset, it is a community project
+* FairSafe is not a speculation asset, it is a community project.
+* Your capital is at risk.
+* The team and developers are not liable for your losses.
+* If you are not educated in de-fi do not invest in this project.
 
