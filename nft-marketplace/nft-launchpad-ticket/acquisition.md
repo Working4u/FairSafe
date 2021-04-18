@@ -22,9 +22,11 @@ Please be warned that if you stake your FSAFE it will be transferred into a new 
 
 EG: 10 FSAFE &gt; Stake &gt; 9.2 FSAFE &gt; Un-stake &gt; 8.464 FSAFE 
 
+This tax applies even you just transfer from one wallet to the other.
+
 Also please note that you will be farming POINTS to gather these NFT's not FSAFE. 
 
-Currently the rate is 1 point per second. 
+Currently the rate is 1 point per FSAFE. 
 
 
 
