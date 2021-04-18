@@ -28,5 +28,9 @@ Also please note that you will be farming POINTS to gather these NFT's not FSAFE
 
 Currently the ratio is 1 point per FSAFE  and the rate is 1 Point Per Second. 
 
+There is no minimum amount to stake. 
+
+The maximum you are able to stake is 10,000 FSAFE
+
 
 
