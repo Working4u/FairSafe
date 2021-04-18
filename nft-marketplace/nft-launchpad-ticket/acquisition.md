@@ -18,13 +18,13 @@ You can either stake your FSAFE or buy the NFT's out with BNB.
 
 ## Staking
 
-Please be warned that if you stake your FSAFE it will be transferred into a new smart contract that. This means that you have to pay the 8% tax for the transfer. Each time FSAFE is transferred the tax is still applied.
+Please be warned that if you stake your FSAFE it will be transferred into a new smart contract. This means that you have to pay the 8% tax for the transfer. Each time FSAFE is transferred the tax is still applied.
 
 EG: 10 FSAFE &gt; Stake &gt; 9.2 FSAFE &gt; Un-stake &gt; 8.464 FSAFE 
 
 Also please note that you will be farming POINTS to gather these NFT's not FSAFE. 
 
-Currently the rate is 100 Points Per Second
+Currently the rate is 1 point per second. 
 
 
 
