@@ -28,3 +28,5 @@ Wallet address is public to everyone but in the event that you are hesitant to s
 
 [Please make sure to fill in the form correctly](https://docs.google.com/forms/d/e/1FAIpQLSdEMhICKVBSQhsI3amrHh8fMt1EVgnyC8FMZGsOxpFxGDGAxw/viewform).  
 
+If the bounty pool is not filled, then the remaining FSAFE will be kept in the community fund for future bounties. 
+
