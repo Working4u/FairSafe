@@ -14,7 +14,7 @@ Visit our current NFT Marketplace [here](https://unifty.io/bsc/farm-view.html?ad
 
 ## How to get these NFT's? 
 
-You can either stake your FSAFE or buy the NFT's out with BNB. 
+You can either stake your FSAFE or buy the NFT's with BNB. 
 
 ## Staking
 
@@ -22,7 +22,7 @@ Please be warned that if you stake your FSAFE it will be transferred into a new 
 
 EG: 10 FSAFE &gt; Stake &gt; 9.2 FSAFE &gt; Un-stake &gt; 8.464 FSAFE 
 
-This tax applies even you just transfer from one wallet to the other.
+This tax applies even if you just transfer from one wallet to the other.
 
 Also please note that you will be farming POINTS to gather these NFT's not FSAFE. 
 
