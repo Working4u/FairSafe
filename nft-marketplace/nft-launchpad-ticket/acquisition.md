@@ -26,7 +26,7 @@ This tax applies even if you just transfer from one wallet to the other.
 
 Also please note that you will be farming POINTS to gather these NFT's not FSAFE. 
 
-Currently the rate is 1 point per FSAFE. 
+Currently the ratio is 1 point per FSAFE  and the rate is 1 Point Per Second. 
 
 
 
