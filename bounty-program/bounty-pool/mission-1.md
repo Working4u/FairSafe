@@ -10,8 +10,8 @@ There will be a total 250 Billion FSAFE up for grabs in the pool. All troopers a
 
 Rules: 
 
-* The recruiter needs to hold at least 10 Billion FSAFE
-* Your recruit needs to hold at least 10 Billion FSAFE
+* The recruiter needs to hold at least 10,000,000,000 FSAFE
+* Your recruit needs to hold at least 10,000,000,000 Billion FSAFE
 * No repeat recruits, any hints of cheating will be instantly disqualified
 * Please fill in the google forms sheet properly with the right information. If you don't then your recruit may be subject for disqualification.
 
