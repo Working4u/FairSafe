@@ -10,8 +10,8 @@
 
 ## Read before continuing
 
-* [Benefits of FairSafe](read-before-continuing/risk-of-fair-safe.md)
 * [Risks of FairSafe](read-before-continuing/risks-of-fairsafe.md)
+* [Benefits of FairSafe](read-before-continuing/risk-of-fair-safe.md)
 
 ## How FSAFE works <a id="fsafe-mechanics"></a>
 
