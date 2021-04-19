@@ -26,7 +26,6 @@ So we're already in Q2 We will start from there.
 ## End of Q3 - 2021
 
 * [ ] New contract formation requires a new LP pool on Polygon for this to be possible another round of presale must happen. All presale participants that use a wallet that held FairSafe previously on BSC will get an airdrop of an NFT from our artists / 100% of their wallet balance that will be vested within a 3 month period. 
-* [ ] Create de-fi use case for 
 
 I will update the road map as the project progresses so please if you are part of the community and support this project to your best to keep up with us! 
 
