@@ -6,7 +6,7 @@ description: "\U0001F512 Who's the fairest of them all?"
 
 ## _**PLEASE NOTE THAT FAIRSAFE IS IN EARLY DEVELOPMENT**_ 
 
-### _**THIS PROJECT WILL BE SUJECT TO A LOT OF CHANGES**_
+### _**THIS PROJECT WILL BE SUBJECT TO A LOT OF CHANGES**_
 
 ![](.gitbook/assets/banner.png)
 
